@@ -1,2 +1,3 @@
-# ìnewly created project
-#  author : jongho.han
+# newly created project
+# author : jongho.ha
+# modified(1)	
